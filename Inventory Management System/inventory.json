@@ -1,0 +1,110 @@
+{
+    "version": 1,
+    "last_saved": "2026-10-12T11:54:26",
+    "products": [
+        {
+            "type": "Electronics",
+            "product_id": "E001",
+            "name": "Wireless Mouse",
+            "price": 799.0,
+            "quantity": 25,
+            "warranty_months": 12
+        },
+        {
+            "type": "Electronics",
+            "product_id": "E002",
+            "name": "Mechanical Keyboard",
+            "price": 3499.0,
+            "quantity": 12,
+            "warranty_months": 24
+        },
+        {
+            "type": "Electronics",
+            "product_id": "E003",
+            "name": "27-inch Monitor",
+            "price": 14999.0,
+            "quantity": 4,
+            "warranty_months": 36
+        },
+        {
+            "type": "Electronics",
+            "product_id": "E004",
+            "name": "USB-C Charger 65W",
+            "price": 1799.0,
+            "quantity": 40,
+            "warranty_months": 18
+        },
+        {
+            "type": "Electronics",
+            "product_id": "E005",
+            "name": "Bluetooth Speaker",
+            "price": 2499.0,
+            "quantity": 3,
+            "warranty_months": 12
+        },
+        {
+            "type": "Electronics",
+            "product_id": "E006",
+            "name": "Laptop Pro 15",
+            "price": 64999.0,
+            "quantity": 7,
+            "warranty_months": 24
+        },
+        {
+            "type": "Groceries",
+            "product_id": "G001",
+            "name": "Basmati Rice 5kg",
+            "price": 649.0,
+            "quantity": 60,
+            "expiry_date": "2027-08-08"
+        },
+        {
+            "type": "Groceries",
+            "product_id": "G002",
+            "name": "Fresh Milk 1L",
+            "price": 62.0,
+            "quantity": 18,
+            "expiry_date": "2026-10-17"
+        },
+        {
+            "type": "Groceries",
+            "product_id": "G003",
+            "name": "Whole Wheat Bread",
+            "price": 45.0,
+            "quantity": 2,
+            "expiry_date": "2026-10-15"
+        },
+        {
+            "type": "Groceries",
+            "product_id": "G004",
+            "name": "Olive Oil 500ml",
+            "price": 799.0,
+            "quantity": 9,
+            "expiry_date": "2027-12-06"
+        },
+        {
+            "type": "Groceries",
+            "product_id": "G005",
+            "name": "Green Tea (25 bags)",
+            "price": 175.0,
+            "quantity": 30,
+            "expiry_date": "2027-06-09"
+        },
+        {
+            "type": "Groceries",
+            "product_id": "G006",
+            "name": "Greek Yogurt 400g",
+            "price": 120.0,
+            "quantity": 14,
+            "expiry_date": "2026-10-10"
+        },
+        {
+            "type": "Electronics",
+            "product_id": "G007",
+            "name": "MacBook",
+            "price": 250000.0,
+            "quantity": 23,
+            "warranty_months": 2
+        }
+    ]
+}
